@@ -1,10 +1,6 @@
 <h1 align="center">Fala Dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-###
-
-<div align="center">
-  <img height="150" src="https://i.imgur.com/1ZvVkDc.gif"  />
-</div>
+![mario coding](https://i.imgur.com/1ZvVkDc.gif)
 
 ## 💡 Sobre mim :
 - *Me chamo Felipe Barnabé e sou de Curitiba-PR* 
@@ -55,7 +51,7 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
   <a href="https://www.twitch.tv/f_barnabe" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
   </a>
-  <a href="https://mail.google.com/mail/fbarnabe8" target="_blank">
+  <a href="mailto:fbarnabe8@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/fbarnabe8/" target="_blank">
