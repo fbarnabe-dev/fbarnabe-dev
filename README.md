@@ -60,6 +60,6 @@ Você pode me encontrar em qualquer uma das minhas redes sociais abaixo!
 </div>
 
 #
-![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/your-user-name/fbarnabe-dev/blob/output/github-contribution-grid-snake.gif)
 
 ###
